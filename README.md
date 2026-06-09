@@ -1,16 +1,20 @@
 ## Hi there f 👋
+Hi there 👋 I'm Chief Technology Officer at [Warpnet](https://warpnet.nl) with over ten years of **Security** and **Platform Engineering** experience at various companies like [DUO](https://duo.nl/), [KPN](https://www.kpn.com/) and [CJIB](https://www.cjib.nl/).
 
-<!--
-**AFC-Hub/AFC-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs). Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
 
-Here are some ideas to get you started:
+Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification. You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/key.asc)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Blog Posts
+In the overview below you will find the featured [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/), automatically updated by [GitHub Actions](https://github.com/roaldnefs/roaldnefs/actions?query=workflow%3A%22Update+README.md%22):
+
+<!-- BLOG_START -->
+- [Committing Changes to a Pull Request Branch Created from a Fork](https://roaldnefs.com/posts/2024/01/committing-changes-to-a-pull-request-branch-created-from-a-fork/) (2024-01-03)
+- [Spoofing Microchips used for Animal Identification](https://roaldnefs.com/posts/2022/11/spoofing-microchips-used-for-animal-identification/) (2022-11-30)
+- [How to Automatically Generate Clients for your REST API](https://roaldnefs.com/posts/2020/12/how-to-automatically-generate-clients-for-your-rest-api/) (2020-12-19)
+- [Ding Dong Ditch using SDR and Arduino](https://roaldnefs.com/posts/2020/01/ding-dong-ditch-using-sdr-and-arduino/) (2020-01-02)
+- [Hardware Reversing the Sitecom Wireless Router 150N X1](https://roaldnefs.com/posts/2019/12/hardware-reverse-a-wireless-router/) (2019-12-14)
+<!-- BLOG_END -->
+
+### Credits
+I would like to thank everyone who has supported me in my open-source contributions and projects. I should mention at least a few of them:
